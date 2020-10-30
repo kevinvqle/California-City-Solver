@@ -1,4 +1,4 @@
-
+Volume-Finder
 The class has three data members. There are two floating point data members which represent latitude and longitude and a `string` which represents the name of the location. You are provided with five data files which contain twenty cities in California. Each file starts with the name of the city (with spaces exchanged for underscores `_`), the latitude, and finally the longitude. The latitude and longitude are expressed as floating point values. Positive value of of latitude mean degrees north of the Earth's Equator. Negative values represent degrees south of the Earth's Equator. Positive values of longitude represent degrees east from the Prime Meridian, while negative values represent degrees west from the Prime Meridian. (Note that all the cities in California will have positive degrees latitude and negative degrees longitude because California is north of the Equator and east of the Prime Meridian.)
 
 The objective of the program is to use the `LatLon` data type to read in twenty data points from the included data files, `location_data*.txt`, and identify the shortest distance and greatest distance defined by the twenty cities in the file. 
