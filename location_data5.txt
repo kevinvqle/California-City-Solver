@@ -1,0 +1,21 @@
+East_Colton_Heights 34.04833 -117.29722
+Collegeville 37.905 -121.14639
+Mulkey_Place 41.865 -120.63778
+Ludlow 34.72111 -116.15917
+Shepards 34.39889 -119.4525
+Rheem 37.97583 -122.35333
+Lake_Alpine 38.47861 -120.00278
+Manzana 38.445 -122.87083
+Lagunitas 38.01139 -122.70111
+Moore 35.38944 -115.26361
+Juniper_Hills 34.44417 -117.93444
+Placerville 38.72972 -120.7975
+Mission_Hills 34.68611 -120.43583
+Wilsonia 36.735 -118.95556
+Redwoods 40.59639 -121.93444
+Alta_Mesa 37.39889 -122.13361
+Sciots_Camp 38.78611 -120.1525
+Leisure_Village 34.21833 -118.9875
+Wilsona_Gardens 34.66778 -117.82472
+Copper_Cove_Village 37.95972 -120.63444
+
